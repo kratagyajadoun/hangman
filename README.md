@@ -1,7 +1,7 @@
-
-\t\t\tHANGMAN GAME CODE
+<p align="center">
+HANGMAN GAME CODE
 ====================
-
+</p>
 
 1) INTRODUCTION 
 _________________
