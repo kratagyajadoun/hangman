@@ -1,6 +1,6 @@
 
 HANGMAN GAME CODE
-
+====================
 
 
 1) INTRODUCTION 
