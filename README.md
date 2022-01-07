@@ -1,6 +1,6 @@
-=================
+
 HANGMAN GAME CODE
-=================
+
 
 
 1) INTRODUCTION 
@@ -42,6 +42,14 @@ The game is build in java language.
 4) FLOW OF THE PROGRAM
 _____________________________
 
+=> first welcome message is displayed and the rules are displayed.
+
+=> then the blank spaces are shown and the user is told to input his choice.
+
+=> the game continues till the chances are over or the player wins.
+
+=> user is asked to enter yes to continue playing or any other string to exit the game. 
+
 
 5) TEST CASES CHECKED 
 _____________________________
@@ -53,3 +61,8 @@ _____________________________
 => input with length more than 1 is also a wring input and reduces the life of the player.
 
 => if the user inputs already entered character that is present in the word it prints the message that that the character is already enter. 
+
+6) DEMO SCREENSHOTS
+_____________________________
+
+
