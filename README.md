@@ -64,10 +64,10 @@ _____________________________
 _____________________________
 
 <p align="center">
-  <img src="Screenshot from 2022-01-07 10-34-23.png" width="350" title="hover text">
-  <img src="Screenshot from 2022-01-07 10-34-32.png" width="350" alt="accessibility text">
-  <img src="Screenshot from 2022-01-07 10-34-41.png" width="350" title="hover text">
-  <img src="Screenshot from 2022-01-07 10-34-49.png" width="350" alt="accessibility text">
-  <img src="Screenshot from 2022-01-07 10-37-48.png" width="350" title="hover text">
-  <img src="Screenshot from 2022-01-07 10-38-40.png" width="350" alt="accessibility text">
+  <img src="Screenshot from 2022-01-07 10-34-23.png" width="800" title="hover text">
+  <img src="Screenshot from 2022-01-07 10-34-32.png" width="800" alt="accessibility text">
+  <img src="Screenshot from 2022-01-07 10-34-41.png" width="800" title="hover text">
+  <img src="Screenshot from 2022-01-07 10-34-49.png" width="800" alt="accessibility text">
+  <img src="Screenshot from 2022-01-07 10-37-48.png" width="800" title="hover text">
+  <img src="Screenshot from 2022-01-07 10-38-40.png" width="800" alt="accessibility text">
 </p>
