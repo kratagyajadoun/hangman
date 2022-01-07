@@ -1,5 +1,5 @@
 
-HANGMAN GAME CODE
+\t\t\tHANGMAN GAME CODE
 ====================
 
 
