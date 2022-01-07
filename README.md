@@ -1,6 +1,5 @@
-<p align="center">
-<h2><b>HANGMAN GAME CODE</b></h2>
-</p>
+
+<h2 align="center"><b>HANGMAN GAME CODE</b></h2>
 
 1) INTRODUCTION 
 _________________
